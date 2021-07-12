@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Update</string>
+    <string name="sunrise" />
+    <string name="sunset" />
+    <string name="wind" />
+    <string name="pressure" />
+    <string name="humidity" />
+    <string name="enter_name_of_city" />
+    <string name="search_temperature" />
+    <string name="something_went_wrong" />
+</resources>
